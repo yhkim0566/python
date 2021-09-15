@@ -1,0 +1,5 @@
+from random import *
+from math import *
+
+study_date = randint(0,28)
+print('오프라인 스터디 모임 날짜는 매월 ' + str(study_date) + '일로 선정되었습니다.')
